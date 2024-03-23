@@ -1,0 +1,29 @@
+{
+  "homepage": "https://randy20000924.github.io/randy-portfolio",
+  "name": "randy20000924",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "prop-types": "^15.5.10",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1",
+    "nib": "^1.1.2",
+    "react-scripts": "1.0.7",
+    "stylus": "^0.54.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "stylus": "stylus -u nib -c -w -o public/css/style.css src/index.styl"
+  },
+  "description": "Professional Resume CV Template in ReactJS",
+  "main": "index.js"
+}
