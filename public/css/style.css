@@ -157,6 +157,14 @@ header .wrapper .content-wrapper {
     color: #555
 }
 
+.item {
+    width: 95%;
+}
+
+.datePosition {
+    float: right;
+}
+
 .content .title .item {
     margin-bottom: 30px;
 }
@@ -173,7 +181,7 @@ header .wrapper .content-wrapper {
 
 .content .title .item p {
     margin-top: 0;
-    width: 95%;
+    width: 100%;
     letter-spacing: 1.1px;
     line-height: 25px
 }

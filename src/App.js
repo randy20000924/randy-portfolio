@@ -21,12 +21,13 @@ class App extends Component {
         {name: 'linkedin', url: 'https://www.linkedin.com/in/randychang890924/'}
       ],
       experience: [
-        {jobTitle: 'Intern', company: 'Turing Drive', startDate: 'July 2022', endDate: 'September 2022', jobDescription: 'Using Python and Node.js to preprocess data from AWS EC2 database for visualization and reduced 50% of the maintenance time.'},
-        {jobTitle: 'Contractor', company: 'Orderble Co., Ltd.', startDate: 'May 2023', endDate: 'September 2023', jobDescription: 'Using .NET MAUI, C#, websocket and UDP to create a signature tablet, which reduce 30% of the signature process time and design the official website of the company.'},
-        {jobTitle: 'Full Stack Developer', company: 'MARVEL BUSINESS SYSTEMS CORP.', startDate: 'January 2024', endDate: 'Present', jobDescription: 'Developed and maintained various functionalities within our Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems, focusing on enhancing user experience and system efficiency.'},
+        {jobKey: 1, jobTitle: 'Intern', company: 'Turing Drive', startDate: 'Jul 2022', endDate: 'Aug 2022', jobDescription: 'Using Python and Node.js to preprocess data from AWS EC2 database for visualization and reduced 50% of the maintenance time.'},
+        {jobKey: 2, jobTitle: 'Software Engineer', company: 'Orderble Co., Ltd.', startDate: 'May 2023', endDate: 'Aug 2023', jobDescription: 'Using .NET MAUI, C#, websocket and UDP to create a signature tablet, which reduce 30% of the signature process time and design the official website of the company.'},
+        {jobKey: 3, jobTitle: 'Software Engineer', company: 'Marvel Business Systems Corp.', startDate: 'Sep 2023', endDate: 'Jun 2024', jobDescription: 'Developed and maintained various functionalities within our Enterprise Resource Planning (ERP) and Customer Relationship Management (CRM) systems, focusing on enhancing user experience and system efficiency.'},
       ],
       education: [
         {degree: 'Bachelor of Computer Science', institution: 'Chang Gung University', startDate: 'September 2019', endDate: 'June 2023', description: ''},
+        {degree: 'Master of Eletrical Engineering', institution: 'University Of British Columbia', startDate: 'Sep 2024', endDate: 'Present', description: ''},
       ],
       skills: [
         {name: 'HTML5', percentage: '90%'},
