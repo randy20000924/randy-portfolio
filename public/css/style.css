@@ -273,6 +273,10 @@ header .wrapper .content-wrapper {
     background-color: #6e8ca1;
 }
 
+.jobDescriptionItem {
+    margin-bottom: 1%;
+}
+
 @-webkit-keyframes move {
     0% {
         background-position: 0 0
