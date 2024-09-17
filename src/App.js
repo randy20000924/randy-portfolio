@@ -12,7 +12,7 @@ class App extends Component {
       avatar: photo,
       name: 'YAO-LUN CHANG',
       profession: 'Software Developer',
-      bio: "Hi there! 👋 I'm YAO-LUN CHANG, a Full Stack Engineer with a passion for building cutting-edge solutions. With expertise in developing ERP and CRM systems, I thrive on creating user experiences and leveraging data-driven insights. I love collaborating with teams to turn ideas into reality and staying updated with the latest tech trends. Let's innovate together! 🚀 ",
+      bio: "Hi there! 👋 I'm YAO-LUN CHANG, a Software Developer with a passion for building cutting-edge solutions. With expertise in developing ERP and CRM systems, I thrive on creating user experiences and leveraging data-driven insights. I love collaborating with teams to turn ideas into reality and staying updated with the latest tech trends. Let's innovate together! 🚀 ",
       address: 'Taipei, Taiwan.',
       social: [
         {name: 'facebook', url: 'https://www.facebook.com/ChangYaoLunRandy'},
