@@ -22,7 +22,7 @@ const About = ({ avatar, name, profession, bio, address, social }) => {
         <a href={'https://drive.google.com/file/d/1vMApecGcZ2l_iO4zSuVHPDw6JvbEG7zE/view?usp=drive_link'} target='_blank' rel="noopener noreferrer" className='ResBtn'>Resume</a>
       </div>
       <div style={{ marginTop: '15px' }}>
-        <a href={`mailto:${'randy890924@gmail.com'}`} target='_blank' rel="noopener noreferrer" className='MailBtn' >Email Me</a>
+        <a href={`mailto:${'randy.chang0924@gmail.com'}`} target='_blank' rel="noopener noreferrer" className='MailBtn' >Email Me</a>
       </div>
       <Social social={social} />
     </div>

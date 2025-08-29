@@ -16,9 +16,9 @@ class App extends Component {
       name: 'Yao-Lun(Randy) Chang',
       profession: 'Master of Electrical Engineering | Software Engineer',
       bio: "Software Engineer and Researcher with experience in ERP/CRM systems, AI for floorplan validation, and bioinformatics. Skilled in Python, JavaScript, C#, SQL, and modern web frameworks. Passionate about building robust solutions and collaborating with cross-functional teams.",
-      address: 'Kelowna, BC | randy890924@gmail.com',
+      address: 'Taipei, Taiwan | randy.chang0924@gmail.com',
       social: [
-        {name: 'envelope', url: 'randy890924@gmail.com'},
+        {name: 'envelope', url: 'randy.chang0924@gmail.com'},
         {name: 'github', url: 'https://github.com/randy20000924'},
         {name: 'linkedin', url: 'https://www.linkedin.com/in/randychang890924/'},
         {name: 'facebook', url: 'https://www.facebook.com/ChangYaoLunRandy'}
@@ -70,7 +70,7 @@ class App extends Component {
           degree: 'Master of Electrical Engineering',
           institution: 'University of British Columbia',
           startDate: 'Sep 2024',
-          endDate: 'Present',
+          endDate: 'Aug 2025',
           description: ''
         },
         {
